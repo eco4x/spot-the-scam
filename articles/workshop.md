@@ -1,6 +1,8 @@
-# Spot the Scam: A Practical Workshop for Your Business
+# Spot the Scam: Cybersecurity Awareness for Small Businesses
 
 Originally published on [Spot the Scam](https://spotthescamguide.blogspot.com/2026/11/spot-scam-practical-workshop-for-your.html). For the latest version, visit the original post.
+
+![Illustration of small-business staff discussing a suspicious message](https://iudhnzllnol2ggmgxvtch5pltq.content.toqi.life/v/1/workshop-illustration.png)
 
 Could your team spot a fake mobile-money warning or a payment request from someone pretending to be the boss?
 
@@ -10,6 +12,8 @@ Could your team spot a fake mobile-money warning or a payment request from someo
 * Verify payment requests through a trusted channel.
 * Protect PINs and one-time codes.
 * Respond and report if someone has already acted on a suspicious request.
+
+![Illustration of a phone, shield and magnifying glass](https://iudhnzllnol2ggmgxvtch5pltq.content.toqi.life/v/1/scam-check-illustration.png)
 
 **Format:** 45 minutes, with a suggested group of up to 10 participants.
 
