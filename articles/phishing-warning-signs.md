@@ -1,5 +1,7 @@
 # How to Spot a Phishing Message: 7 Warning Signs
 
+![Illustration of a suspicious message being examined with a magnifying glass](https://jujpazgaxctqmclnshwc3cjr3i.content.toqi.life/v/1/phishing-awareness.png)
+
 Originally published on [Spot the Scam](https://spotthescamguide.blogspot.com/2026/11/how-to-spot-phishing-message-7-warning.html). For the latest version, visit the original post.
 
 A text says your account will be blocked unless you act immediately. An email promises a job, but asks for your details first. A WhatsApp message from a familiar name asks for a code. Could it be a scam?

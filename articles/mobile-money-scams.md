@@ -1,5 +1,7 @@
 # Mobile Money Scams in Uganda: How to Spot Them and Protect Your Wallet
 
+![Illustration of a person checking a mobile-money message](https://jujpazgaxctqmclnshwc3cjr3i.content.toqi.life/v/1/mobile-money-awareness.png)
+
 Originally published on [Spot the Scam](https://spotthescamguide.blogspot.com/2026/11/mobile-money-scams-in-uganda-how-to.html). For the latest version, visit the original post.
 
 A call claiming your SIM will be blocked or a message promising a prize can feel urgent. That is exactly when to pause. Scammers may impersonate a mobile network, an employer or even someone you know to make you share a code or send money.
